@@ -1,0 +1,8 @@
+{
+  "require": {
+      "smalot/pdfparser": "^1.1.0",
+      "setasign/fpdi": "^2.4.1",
+      "setasign/fpdf": "^1.8.6",
+      "phpoffice/phpspreadsheet": "^1.29.0"
+  }
+}
