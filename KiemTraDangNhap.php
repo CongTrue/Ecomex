@@ -1,5 +1,5 @@
 <?php
-//nếu chưa có biến $_SESSION["logined"] thì cho như chưa đăng nhập
+//nếu chưa có biến $_SESSION["logined"] thì coi như chưa đăng nhập
 if(isset($_SESSION["dangnhap"])==false || $_SESSION["dangnhap"]=="")
 {
 header('Location:login.php');
